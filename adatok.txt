@@ -1,0 +1,4 @@
+Név: Szilvai Ferenc
+Neptun-kód: BBCRSS
+Szak: Mérnökinformatikus
+Fájlnév: szilvaiferenc-bbcrss.py
